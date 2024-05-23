@@ -9,3 +9,8 @@ h4
 {
   color:aqua;
 }
+table
+{
+  border: 0.3rem solid olive;
+  border-color:red;
+}
